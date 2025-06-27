@@ -34,8 +34,8 @@ Designed with a focus on **developer workflow**, **usability**, and **tooling fu
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/json-editor-tool.git
-   cd json-editor-tool
+   git clone https://github.com/StorytellerIgneel/JSON-editor-tool.git
+   cd JSON-editor-tool
 
 2. Open the solution file in VS
 
