@@ -8,9 +8,7 @@ Designed with a focus on **developer workflow**, **usability**, and **tooling fu
 ## ✨ Features
 
 - 📂 Open & Save `.json` files with structure preservation
-- 🌳 TreeView-based UI for intuitive JSON navigation
 - ⌨️ Keyboard shortcuts (e.g., `Ctrl+S` to save, `Ctrl+O` to open)
-- ⚠️ Malformed JSON handling and safe file operations
 - 💡 Clean and minimal WPF UI using XAML
 
 ---
