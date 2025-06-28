@@ -1,0 +1,59 @@
+## Build results
+bin/
+obj/
+
+## Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider user-specific
+.idea/
+*.sln.iml
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## VS Code settings
+.vscode/
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.symbols.nupkg
+
+## Logs
+*.log
+
+## Debugging / Cache
+*.pidb
+*.svclog
+
+## Publish outputs
+*.publishsettings
+
+## Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+## JSON Editor specific
+JsonEditor/bin/
+JsonEditor/obj/
+JsonEditorNew/bin/
+JsonEditorNew/obj/
+
+## Optional: Ignore test result files
+TestResults/
+
+## Optional: Ignore compiled DLLs
+*.dll
+*.exe
+*.pdb
+*.mdb
+.fake
